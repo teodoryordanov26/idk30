@@ -22,6 +22,7 @@ namespace idk30
             Console.WriteLine("3.Връщане на книга от читателя.");
             Console.WriteLine("4.Справка за налични книги в библиотеката.");
             Console.WriteLine("5. Kрай.");
+            //асдф
         }
         static void chooseMenuNumber()
         {
